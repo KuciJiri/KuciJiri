@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in manual testing and automated testing.
-- 🌱 I’m currently learning in an IDE: Pycharm Robot FrameWork with Playwrite
+- 🌱 I’m currently learning in an IDE: Pycharm/Robot FrameWork 
 - 📫 How to reach me linkedin.com/in/jiří-kučera-404017240
 
 
